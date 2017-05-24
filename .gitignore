@@ -1,0 +1,6 @@
+.idea/
+data/output/mse*
+data/output/check*
+data/output/MC_*
+*.pickle
+*.zip
